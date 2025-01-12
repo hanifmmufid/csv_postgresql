@@ -1,0 +1,6 @@
+pandas
+pandasql
+psycopg2
+sqlalchemy
+python-dotenv
+faker

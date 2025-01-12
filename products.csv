@@ -1,0 +1,41 @@
+id,name,category,price,stock
+1,Wireless Earbuds,Electronics,49.99,120
+2,Smartphone Charger,Electronics,19.99,200
+3,Noise-Cancelling Headphones,Electronics,199.99,50
+4,Smartwatch,Electronics,149.99,75
+5,Bluetooth Speaker,Electronics,89.99,100
+6,Best-Selling Novel,Books,14.99,300
+7,Science Fiction Anthology,Books,24.99,150
+8,Self-Help Guide,Books,18.99,250
+9,Cookbook,Books,22.5,200
+10,Children's Storybook,Books,12.99,400
+11,Men's Casual T-Shirt,Clothing,14.99,180
+12,Women's Denim Jacket,Clothing,39.99,90
+13,Unisex Running Shoes,Clothing,59.99,150
+14,Kids' Winter Hat,Clothing,9.99,220
+15,Sports Hoodie,Clothing,29.99,100
+16,Stainless Steel Cookware Set,Home,129.99,60
+17,Memory Foam Pillow,Home,34.99,80
+18,LED Desk Lamp,Home,24.99,140
+19,Robot Building Kit,Toys,49.99,100
+20,Puzzle Game,Toys,14.99,250
+21,Electric Toothbrush,Electronics,29.99,180
+22,Portable Power Bank,Electronics,39.99,140
+23,Digital Camera,Electronics,249.99,70
+24,4K Smart TV,Electronics,499.99,60
+25,Wireless Charging Pad,Electronics,29.99,220
+26,Mystery Thriller Novel,Books,16.99,200
+27,History of the World,Books,29.99,120
+28,Personal Finance Guide,Books,19.99,180
+29,Fantasy Adventure Novel,Books,12.5,350
+30,Children's Activity Book,Books,9.99,420
+31,Fleece Sweatshirt,Clothing,25.99,130
+32,Leather Wallet,Clothing,49.99,75
+33,Winter Jacket,Clothing,99.99,90
+34,Running Shorts,Clothing,19.99,200
+35,Knitted Scarf,Clothing,12.99,250
+36,Electric Kettle,Home,29.99,150
+37,Smart Thermostat,Home,199.99,80
+38,Indoor Plant Set,Home,34.99,100
+39,Robot Vacuum Cleaner,Home,179.99,60
+40,Outdoor Hammock,Home,59.99,90
